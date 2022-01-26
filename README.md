@@ -4,19 +4,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rene_gamino012@berkeley.edu)](mailto:rene_gamino012@berkeley.edu)
 
 ## Aspiring Professional. Researcher. Cartographer. Analyst.
-I recently graduated with a Bachelor of Arts in Data Science from the University of California, Berkeley. I am continuing this journey on GIS and data science, and am exploring my previous coursework and independent projects. Hobbies include 
+I recently graduated with a Bachelor of Arts in Data Science from the University of California, Berkeley. I am training in skills related to being a data analyst, cartographer, and web designer.
 
-##__Challenges__ ##
-* Launching a portfolio + blog site using Github Pages.  
-* Introducing and publishing GIS + data science projects.
-* Searching for an internship or full-time employment opportunity.
+## 2022 Challenges 
+* Working on the digital garden's release and publications.  
+* Looking for open-source collaboration and compiling a list of projects.
+* Searching for temporary work, full-time employment, or an internship.
 * Working on a Class C driver's license.
+* Buy and use a bicycle to overcome a childhood fear of bicycles and improve mobility.
+* Volunteer in mutual aid programs, when I have an affordable means of transportation.
+* Swap my wardrobe for gender-affirming outfits and find a fulfilling aesthetic.
+* Reading at least twelve books this year. I am currently reading House of Leaves by Mark Z. Danielewski and Inclusive Design Patterns by Heydon Pickering.
 
-##Projects ##
+
+## Projects
 Project  | Description  | Status   | Source
 ------------- | ------------- | ------------- | -------------
 Site  | A portfolio + data sci / GIST blog to showcase my Github repositories.  | Ongoing | [Link](https://github.com/renegamino012/the-gist-of-it-blog)
-
-
-### Latest Blog Posts ###
- Currently unavailable :construction: 
