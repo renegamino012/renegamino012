@@ -1,23 +1,21 @@
-# Hey, I am Rene Gamino __(she/they)__!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rene-g-bba19b120/)](https://www.linkedin.com/in/rene-g-bba19b120/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/rene_gamino012)](https://codepen.io/rene_gamino012)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rene_gamino012@berkeley.edu)](mailto:rene_gamino012@berkeley.edu)
+# Hello, hello - Rene Gamino **(she/they)**!
+I am currently a GIS Intern at the Innovation Department under the City Of Los Angeles' Office Of The Controller. From 2016-20, I studied Data Science at the University of California, Berkeley. My interests include but are not limited to urban sciences, social sciences, programming, YouTube binge-watching, coffee, tabletop gaming, and vegetarian/vegan cuisine.
 
-## Aspiring Professional. Researcher. Cartographer. Analyst.
-I recently graduated with a Bachelor of Arts in Data Science from the University of California, Berkeley. I am training in skills related to being a data analyst, cartographer, and web designer.
-
-## 2022 Challenges 
-* Working on the digital garden's release and publications.  
-* Looking for open-source collaboration and compiling a list of projects.
-* Searching for temporary work, full-time employment, or an internship.
+Email me at [rene_gamino012@berkeley.edu](mailto:rene_gamino012@berkeley.edu). Resume available on request. 
+## Current challenges 
+* Working on the release of a portfolio.
+* Review the knowledge, skills, and toolkits from undergraduate.
+  * **Lower division courses:** Calculus I/II. Linear Algebra. Program Structures. Data Structures. 
+  * **Upper division courses:** Principles and Techniques of Data Science. Concepts of Probability. Concepts of Statistics. Modern Statistical Prediction & Machine Learning. Linear Modelling: Theory and Applications. Geographic Information Systems.
+* Review available Berkeley course syllabuses for independent study. Example: [Stochastic Processes, Fall 2019](https://github.com/dsuryakusuma/stochastic-processes/blob/master/notes/STAT_150_Lecture_Series.pdf).
+* Looking for open-source collaboration and compiling a list of projects. 
+* Searching for full-time employment or a paid internship.
 * Working on a Class C driver's license.
-* Buy and use a bicycle to overcome a childhood fear of bicycles and improve mobility.
-* Volunteer in mutual aid programs, when I have an affordable means of transportation.
-* Swap my wardrobe for gender-affirming outfits and find a fulfilling aesthetic.
-* Reading at least twelve books this year. I am currently reading House of Leaves by Mark Z. Danielewski and Inclusive Design Patterns by Heydon Pickering.
-
-
-## Projects
-Project  | Description  | Status   | Source
-------------- | ------------- | ------------- | -------------
-Site  | A portfolio + data sci / GIST blog to showcase my Github repositories.  | Ongoing | [Link](https://github.com/renegamino012/the-gist-of-it-blog)
+## Stack 
+### Languages 
+English (native). Spanish (elementary). 
+CSS. HTML. Javascript. Markdown. Python. R.
+### Frameworks and libraries
+Dplyr. Gatsby. GeoPandas. Ggplot2. Numpy. Pandas. Seaborn. 
+### Software and tools 
+Adobe Illustrator. ArcGIS Online. GIMP. Jupyter. Microsoft Excel. QGIS. Tableau. Visual Studio Code.
