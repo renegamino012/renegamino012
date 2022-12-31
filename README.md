@@ -1,5 +1,4 @@
 # Hello, hello - Rene Gamino **(she/they)**!
-From 2016-20, I studied Data Science at the University of California, Berkeley. I recently finished a role as GIS Intern at the Innovation Department under the City Of Los Angeles' Office Of The Controller.
 My interests include but are not limited to urban sciences, social sciences, programming, YouTube binge-watching, coffee, tabletop gaming, and vegetarian/vegan cuisine.
 
 Email me at [rene_gamino012@berkeley.edu](mailto:rene_gamino012@berkeley.edu). Resume available on request. 
@@ -9,7 +8,7 @@ Email me at [rene_gamino012@berkeley.edu](mailto:rene_gamino012@berkeley.edu). R
 * Review the knowledge, skills, and toolkits from undergraduate.
   * **Lower division courses:** Calculus I/II. Linear Algebra. Program Structures. Data Structures. 
   * **Upper division courses:** Principles and Techniques of Data Science. Concepts of Probability. Concepts of Statistics. Modern Statistical Prediction & Machine Learning. Linear Modelling: Theory and Applications. Geographic Information Systems.
-* Review available Berkeley course syllabuses for independent study. Example: [Stochastic Processes, Fall 2019](https://github.com/dsuryakusuma/stochastic-processes/blob/master/notes/STAT_150_Lecture_Series.pdf).
+* Review available course syllabuses for independent study. Example: [Stochastic Processes, Fall 2019](https://github.com/dsuryakusuma/stochastic-processes/blob/master/notes/STAT_150_Lecture_Series.pdf).
 * Looking for open-source collaboration and compiling a list of projects. 
 * Searching for full-time employment or a paid internship.
 * Working on a Class C driver's license.
