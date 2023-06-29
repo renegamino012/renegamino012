@@ -3,14 +3,12 @@ My interests include but are not limited to urban sciences, social sciences, pro
 
 Email me at [rene_gamino012@berkeley.edu](mailto:rene_gamino012@berkeley.edu). Resume available on request. 
 ## Current challenges 
-* Working on the release of a portfolio.
 * Complete the [2022 #30DayMapChallenge](https://30daymapchallenge.com/) and publish in a [GitHub repository](https://github.com/renegamino012/30DayMapChallenge__Nov_2022).
+* Complete the [Google Data Analytics Capstone: Cyclistic Case Study](https://github.com/renegamino012/Google-Data-Analytics-Capstone--Cyclistic-Case-Study).
 * Review the knowledge, skills, and toolkits from undergraduate.
   * **Lower division courses:** Calculus I/II. Linear Algebra. Program Structures. Data Structures. 
   * **Upper division courses:** Principles and Techniques of Data Science. Concepts of Probability. Concepts of Statistics. Modern Statistical Prediction & Machine Learning. Linear Modelling: Theory and Applications. Geographic Information Systems.
 * Review available course syllabuses for independent study. Example: [Stochastic Processes, Fall 2019](https://github.com/dsuryakusuma/stochastic-processes/blob/master/notes/STAT_150_Lecture_Series.pdf).
-* Looking for open-source collaboration and compiling a list of projects. 
-* Searching for full-time employment or a paid internship.
 * Working on a Class C driver's license.
 ## Stack 
 ### Languages 
